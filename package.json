@@ -1,0 +1,21 @@
+{
+  "name": "mfi-telegraf",
+  "version": "1.0.0",
+  "description": "a script for telegraf to read power data from mfi",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pettazz/mfi-telegraf.git"
+  },
+  "author": "pettazz",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/pettazz/mfi-telegraf/issues"
+  },
+  "homepage": "https://github.com/pettazz/mfi-telegraf#readme",
+  "dependencies": {
+    "ubnt-mfi": "0.0.1"
+  },
+  "devDependencies": {}
+}
