@@ -1,3 +1,9 @@
+# emacs shit
+*~
+
+# actual config data
+config.js
+
 # Logs
 logs
 *.log
